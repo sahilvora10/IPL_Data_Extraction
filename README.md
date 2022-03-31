@@ -2,9 +2,9 @@
 #### Sample scripts on how to perform Web Scraping using Python and BeautifulSoup
  
  ### Information about this Repository
-    - _IPL_2022_Players_Stats.ipynb_ is used to fetch data for all players in IPL 2022 and get their all time IPL Stats
-    - _IPL_2022_Players_T20_Stats.ipynb_ is used to fetch data for all players in IPL 2022 and get their all time T20 Stats
-    - _IPL_All_Years_Data.ipynb_ is used to fetch match information and ball by ball information for each match from *IPL 2008 - 2022*
+- _IPL_2022_Players_Stats.ipynb_ is used to fetch data for all players in IPL 2022 and get their all time IPL Stats
+- _IPL_2022_Players_T20_Stats.ipynb_ is used to fetch data for all players in IPL 2022 and get their all time T20 Stats
+- _IPL_All_Years_Data.ipynb_ is used to fetch match information and ball by ball information for each match from *IPL 2008 - 2022*
  
  
  ### Databases hosted on Kaggle
